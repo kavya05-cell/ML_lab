@@ -72,7 +72,7 @@ Supported models:
 | Logistic Regression | penalty, C |
 
 ---
-
+ ### 4. Training Pipeline
 Dataset → Preprocessing → Training → Evaluation → Tuning
 
 ---

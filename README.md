@@ -162,21 +162,24 @@ Select model
 Adjust hyperparameters
 Train model
 Analyze results via visualizations
+
 📈 Future Improvements
 Bayesian Optimization
 Hyperband
 AutoML pipeline
 Real-time training visualization
+
+--- 
+
 ⚠️ Note
 This project is only impactful if:
 Visualization is strong
 Hyperparameter effects are clearly shown
 At least one advanced tuning method is implemented
 Otherwise, it becomes a basic ML demo.
+
 👤 Author
 Kavya Rajput
 Riddhi Gupta
 
----
 
-### 4. Training Pipeline
